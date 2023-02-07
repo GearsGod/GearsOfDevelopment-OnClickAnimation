@@ -2,11 +2,11 @@
 
 Make a click animation
 
-- Can change animation
-- Can update default animation
+- Change animation
+- Update default animation
 - Simplify use
 
-# How to Use?
+# How to Use
 
 -> Implements class **com.gearsofdevelopment.onanimationclick.OnClickListener** with any click listener
 
@@ -21,4 +21,4 @@ Make a click animation
 
 
 # Example GIF
-![](https://github.com/GearsGod/OnClickAnimation/blob/main/app/src/main/assets/example.gif)
+<img src="https://github.com/GearsGod/OnClickAnimation/blob/main/app/src/main/assets/example.gif" width="400" />
