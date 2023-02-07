@@ -25,7 +25,7 @@ abstract class OnClickListener<T> : View.OnClickListener {
             override fun onAnimationEnd(animation: Animation?) {
                 super.onAnimationEnd(animation)
                 p0.clearAnimation()
-                val tag: Any = p0.tag
+                val tag: Any? = p0.tag
                 try {
                     onClick(p0, tag as T)
                 } catch (e: Exception) {

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">OnAnimationClickListener</string>
+    <string name="click">CLick!</string>
+    <string name="clicked">CLicked</string>
 </resources>
